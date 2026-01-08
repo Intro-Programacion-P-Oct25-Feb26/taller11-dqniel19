@@ -4,8 +4,10 @@
  * and open the template in the editor.
  */
 package paquete02;
+
 import java.util.Locale;
 import java.util.Scanner;
+
 /**
  *
  * @author reroes
@@ -23,7 +25,7 @@ public class Problema2 {
         double[][] mensual = new double[10][12];
         double[] anual = new double[10];
 
-        viviendas  = obtenerDatos();
+        viviendas = obtenerDatos();
         mensual = consumoMensual();
         anual = consumoAnual(mensual);
         imprimirDatos(viviendas, anual);
@@ -35,38 +37,38 @@ public class Problema2 {
         String[] a = new String[10];
         for (int i = 0; i < a.length; i++) {
             System.out.printf("Ingrese el nombre de la vivienda %d\n", i + 1);
-            a [i] = entrada.nextLine();
+            a[i] = entrada.nextLine();
         }
-        return a ;
+        return a;
     }
 
-    public static double [][] consumoMensual() {
+    public static double[][] consumoMensual() {
         Scanner entrada = new Scanner(System.in);
         entrada.useLocale(Locale.US);
         double[][] b = new double[10][12];
         for (int i = 0; i < b.length; i++) {
             for (int j = 0; j < b[i].length; j++) {
-            System.out.printf("Ingrese el consumo de la vivienda %d en "
-                    + "el mes %d\n", i + 1, j + 1);
-            b [i][j] = entrada.nextInt();
+                System.out.printf("Ingrese el consumo de la vivienda %d en "
+                        + "el mes %d\n", i + 1, j + 1);
+                b[i][j] = entrada.nextInt();
             }
-        }    
+        }
         return b;
     }
-        
-    public static double [] consumoAnual(double[][] meses) {
-        double [] años = new double [10];
+
+    public static double[] consumoAnual(double[][] meses) {
+        double[] años = new double[10];
         for (int i = 0; i < meses.length; i++) {
             double suma = 0;
             for (int j = 0; j < meses[i].length; j++) {
                 suma = suma + meses[i][j];
             }
-        años [i] = suma;
+            años[i] = suma;
         }
         return años;
     }
-    
-    public static void imprimirDatos (String [] a, double [] b) {
+
+    public static void imprimirDatos(String[] a, double[] b) {
         String msj = "";
         for (int i = 0; i < a.length; i++) {
             msj = String.format("%sEl consumo de la vivienda %s (%d) es de: "
@@ -74,4 +76,4 @@ public class Problema2 {
         }
         System.out.printf(msj);
     }
-}    
+}
