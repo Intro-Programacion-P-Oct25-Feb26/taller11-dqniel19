@@ -1,0 +1,4 @@
+La parte que no comprendia era como llamaría a los procedimientos ya que no 
+se me ocurría ninguna forma, además de que no pedí los datos correctamente.
+Por ultimo, la parte mas importante fue lograr hacer trabajar varios metodos
+una vez más, lo que me ayuda a aumentar mi experiencia sobre este ámbito.

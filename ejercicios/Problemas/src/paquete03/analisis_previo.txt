@@ -1,0 +1,5 @@
+El programa, como indica, necesitará de 3 procedimientos, junto a ello los 
+respectivos datos de cada formula. El proceso dependerá de la funcion necesitada
+y concluirá en la impresión del resultado. Se necesitará solicitar al usuario 
+su respuesta por teclado, un condicional que compare el valor ingresado, las 
+operaciones necesarias y el calculo del resultado final.
