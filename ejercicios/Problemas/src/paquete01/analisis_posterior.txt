@@ -1,0 +1,5 @@
+La parte mas compleja fue entender que el procedimiento devolvía el mensaje, 
+intenté pedirle al metodo principal que lo imprima y no era posible. Ocurrieron
+errores humanos y de sintaxis que fueron corregidos analizando el trabajo y 
+preguntando al docente. La parte importante fue la creacion del procedimiento, 
+lo cual me sirvió para aprender más sobre como funcionan estos mismos.

@@ -1,0 +1,7 @@
+Como datos necesarios esta principalmente el arreglo, el mensaje final donde 
+se mostrarán los valores pares. Como proceso principal es la función que 
+cumplirá el procedimiento seleccionando los valores pares y concatenándolos,
+para esto se necesitara un ciclo para que vaya posición por posición comparando
+a los valores y viendo si su residuo al ser divididos por 2 es 0 o 1. 
+El resultado esperado será el mensaje final con los números seleccionados.
+ 
