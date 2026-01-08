@@ -24,10 +24,10 @@ public class Problema1 {
         int numPar;
         for (int i = 0; i < datos.length; i++) {
             for (int j = 0; j < datos[i].length; j++) {
-            if ((datos[i][j]) %2 == 0) {
-                numPar = datos[i][j];
-                mensajePares = String.format("%s%d - ", 
-                        mensajePares, numPar);
+                if ((datos[i][j]) % 2 == 0) {
+                    numPar = datos[i][j];
+                    mensajePares = String.format("%s%d - ",
+                            mensajePares, numPar);
                 }
             }
         }

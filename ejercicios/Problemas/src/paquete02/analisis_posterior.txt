@@ -1,0 +1,5 @@
+La parte dificil fue comprender como hacer que los metodos funcionen bien,
+seguido a esto mi principal error fue no poder lograr que estos mismos trabajen 
+de manera correcta sin errores, lo solucioné analizando bien mi trabajo y 
+encontrando error por error. La parte más importante fue lograr trabajar con
+varios metodos y hacer que juntos logren lo requerido. 

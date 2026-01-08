@@ -1,0 +1,5 @@
+El programa necesita 3 arreglos y 4 metodos (3 funciones y un procedimiento), 
+además de los valores de consumo. El proceso se dividirá en los 4 metodos antes
+mencionados, donde todos serán dependientes entre si, necesitando el solicitar
+los datos necesarios (nombres y consumo mensual). Es necesaria la intervención 
+de ciclos para, operaciones como la suma y la concatenación de un reporte final.
