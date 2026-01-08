@@ -1,0 +1,5 @@
+El programa requiere el nombre y la cédula del cliente y, según la opción
+elegida, datos del consumo eléctrico o el valor del inmueble. En el proceso
+principal se usa una condición para decidir qué cálculo realizar. Se aplican
+operaciones aritméticas simples y se presenta en pantalla un reporte con el
+valor que debe cancelar el cliente.
