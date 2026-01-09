@@ -1,0 +1,5 @@
+Me resultó complicado entender la estructura de los arreglos y ver si los estaba
+llamando y sumando correctamente, pude corregir y aclarar mis dudas graficando
+ambos arreglos y las operaciones en una hoja. Considero que manejar arreglos
+bidimensionales y sus valores es de suma importancia, por lo que puedo decir
+que aprendí a usarlos y leerlos mejor con este ejercicio.

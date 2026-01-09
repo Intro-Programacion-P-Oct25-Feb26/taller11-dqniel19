@@ -1,0 +1,5 @@
+El programa recibe dos arreglos bidimensionales con valores numéricos. El 
+proceso consiste en recorrer ambos arreglos al mismo tiempo, luego, en cada 
+posición se suman los valores correspondientes. Para esto se utilizan 
+estructuras repetitivas de control, y por ultimo, el resultado es un nuevo 
+arreglo con las sumas obtenidas.

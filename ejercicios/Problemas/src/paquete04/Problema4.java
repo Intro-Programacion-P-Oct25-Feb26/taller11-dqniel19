@@ -62,8 +62,8 @@ public class Problema4 {
                 + "valor de $%.2f\n", b, a, total);
 
     }
-    
-    public static void calcularPredio(int a, String b){
+
+    public static void calcularPredio(int a, String b) {
         Scanner entrada = new Scanner(System.in);
         entrada.useLocale(Locale.US);
         double valorInmueble;
@@ -74,8 +74,8 @@ public class Problema4 {
         System.out.printf("\nREPORTE DE PREDIO\n------------------"
                 + "------------\nCliente %s con cédula %d "
                 + "tiene un inmueble valorado en $%.0f y debe cancelar "
-                + "de predio $%.2f\n", 
+                + "de predio $%.2f\n",
                 b, a, valorInmueble, total);
-        
+
     }
 }
