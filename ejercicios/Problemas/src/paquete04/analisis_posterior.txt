@@ -1,0 +1,5 @@
+Se me complicó entender por qué me tiraba error diciendome que las variables no
+estaban inicializadas y no entendía a que se debía si se los daba al pedirlos,
+lo corregí dandole valores "vacios" a ambos. La parte más importante es generar
+los reportes. Aprendí que en muchos casos es mejor inicializar las variables
+asi se les de un valor exacto en el futuro.
