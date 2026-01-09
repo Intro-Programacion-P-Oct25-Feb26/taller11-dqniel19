@@ -34,7 +34,8 @@ public class Problema4 {
             System.out.println("Ingrese sus nombres completos");
             nombre = entrada.nextLine();
         }
-
+        
+        // Condicional que pedirá nombres si la opción es correcta
         if (rta == 1) {
             calcularValorLuz(ci, nombre);
         } else if (rta == 2) {
