@@ -1,0 +1,4 @@
+La parte más complicada fue hallar una manera de medir los carácteres de las
+ciudades, pero utilizando .length fue fácil de solucionar. La parte más 
+importante fue utilizar un arreglo que cambió constantemente hasta que fue 
+utilizado como parámetro, por lo que aprendí a estructurar mejor un programa.

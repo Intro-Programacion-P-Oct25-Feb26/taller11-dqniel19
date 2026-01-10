@@ -1,0 +1,5 @@
+El programa solicita al usuario la cantidad de elementos de un arreglo, 
+posteriormente, permite ingresar por teclado nombres de ciudades ecuatorianas. 
+Con los datos ingresados se construye un arreglo unidimensional de cadenas,
+Posterior a ello se analiza cada elemento del arreglo recibido como parámetro.
+Finalmente se imprimen solo los valores que tengan cuatro o cinco caracteres.
