@@ -73,6 +73,7 @@ public class Problema3 {
         double area;
         Scanner entrada = new Scanner(System.in);
         entrada.useLocale(Locale.US);
+        
         System.out.println("Ingrese la medida de la base");
         base = entrada.nextDouble();
         System.out.println("Ingrese la medida de la altura");
