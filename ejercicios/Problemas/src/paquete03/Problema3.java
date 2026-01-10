@@ -83,4 +83,5 @@ public class Problema3 {
                 + "de altura es de: %.2f\n", base, altura, area);
     }
     
+    
 }
