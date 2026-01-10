@@ -1,0 +1,5 @@
+El programa recibe un arreglo unidimensional con valores numéricos enteros.
+Primero se calcula la media aritmética sumando los valores y dividiéndolos, 
+luego se utiliza la media para calcular la desviación estándar del arreglo.
+Durante el proceso se emplean estructuras repetitivas para recorrer los datos y
+finalmente se muestran en pantalla la media aritmética y la desviación estándar.

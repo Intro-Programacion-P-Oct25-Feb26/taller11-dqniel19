@@ -1,0 +1,4 @@
+Se me complicó bastante entender como funcionaba la desviación mencionada, tuve
+que investigar para comprenderla y poder codificarla. Me parece importante el 
+como se trabaja con diferentes operaciones aritmeticas debido a que aumentan
+tanto el conocimiento como la experiencia en este campo para trabajos futuros.

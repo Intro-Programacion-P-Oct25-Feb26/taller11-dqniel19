@@ -26,7 +26,7 @@ public class Problema5 {
 
     }
 
-    // Se forma el arreglo equivalente de las sumas de los arreglos anteriores
+    // Se forma el arreglo equivalente de las sumas de los arreglos 
     public static int[][] sumaArreglos(int[][] a, int[][] b) {
         int[][] c = new int[3][3];
         for (int i = 0; i < c.length; i++) {
